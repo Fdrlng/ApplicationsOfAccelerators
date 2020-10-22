@@ -1,0 +1,88 @@
+Shahab Sanjari <sanjari@fh-aachen.de>
+	
+Fri, Oct 16, 11:39 AM (3 days ago)
+	
+to me
+
+Ex.2
+-----
+
+Comments:
+
+- From now on, all submissions are accepted only in PDF uploaded here in ILAIS. I highly suggest using the website:
+
+https://upmath.me/
+
+for your assignment. I made an introduction video for it, in the video section of the ILIAS page here.
+
+
+- All calculation results should have units, correct numbers without units will not be considered
+
+- For the programming exercises, if you are (still) using Windows you can download the excellent Python-distribution from:
+
+https://winpython.github.io/
+
+inside the package, there is "spyder" which you can easily use, as some of you already did.
+
+- Please tidy up your GitHUB account in proper projects / folders! Some people's account looks like the office of one of my colleagues!!
+
+
+
+Questions:
+
+
+1- [1 point] Assuming that after a half-life, really half of the radioactive material disintegrates / decays, how many average half-lives does it approximately take, so that 14 grams of 14-C decays?
+
+log0.5 (1/N_A) = 78.9
+
+2- [1 point] Write *very short* definitions and classify the following concepts in groups:
+
+Fermions
+ganzzahliger Spinn
+antisymmetrisch
+Teilchen aus denen die Materie besteht
+Obergruppe der Leptonen und Quarks
+
+Bosons
+n/2 Spinn, n=1,3,5,...
+symmetrisch
+Vermitteln kräfte
+
+Hadrons
+subatomare Teilchen, die von der starken Wechselwirkung zusammen gehalten werden
+z.B. Neutronen, Protonen
+
+Mesons
+Untergruppe der Hadronen
+Bosonen
+
+Baryons
+Untergruppe der Hadronen
+Fermionen
+Neutronen und Protonen Teil der Gruppe
+
+Leptons
+Fermionen
+u.A. Elektron
+
+Which elementary fermions can be accelerated in an accelerator?
+
+Man braucht ein geladenes Teilchen, also:
+Elektron
+
+
+3- [1 point] A linear accelerator can accelerate protons to 1 GeV. What is the available CoM energy if we shoot the protons on a fixed Beryllium target for an industrial application? What would be the available CoM energy if we use two such accelerators to form a collider?
+
+
+
+4- [1 point] Design an accelerator:
+
+Write a python code, that calculates the lengths of the first 20 segments in a Wideröe structure for medical application, i.e. for Lithium-like 12-C ions. Choose a proper reference phase, acceleration voltage and RF frequency so that your accelerator fits in your bedroom!
+
+
+
+
+[1 point extra!!!] If you use the decorator (numpy.vectorize) in the above code properly!
+
+
+Please put the code on your GitHUB account and post the link to the repository here.
