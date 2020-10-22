@@ -68,7 +68,7 @@ u.A. Elektron
 Which elementary fermions can be accelerated in an accelerator?
 
 Man braucht ein geladenes Teilchen, also:
-Elektron
+Elektron, Muon, Tau
 
 
 3- [1 point] A linear accelerator can accelerate protons to 1 GeV. What is the available CoM energy if we shoot the protons on a fixed Beryllium target for an industrial application? What would be the available CoM energy if we use two such accelerators to form a collider?
